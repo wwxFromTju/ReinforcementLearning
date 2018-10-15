@@ -22,7 +22,7 @@ Please feel free to **pull requests**.
 ## Theory
 
 ## Book
-1. [Reinforcement Learning: An Introduction](http://incompleteideas.net/sutton/book/the-book.html)
+1. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 	
 ### Lectures
 
